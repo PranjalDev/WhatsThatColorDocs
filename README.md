@@ -61,6 +61,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Peach smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [What's the color](https://PranjalDev.github.io/WhatsThatColorDocs/support/whatsthecolor) (supportpage) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/support/whatsthecolor.md))
 - [What's the color](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Apple) (supportpage) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Apple.md))
 
 
