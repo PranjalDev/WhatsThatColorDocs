@@ -47,7 +47,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://PranjalDev.github.io/WhatsThatColorDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/WhatsThatColorDocs/404.md))
-- [Apple smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Apple.md))
 - [Blueberry smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Buy blue boba](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
@@ -62,6 +61,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Peach smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [What's the color](https://PranjalDev.github.io/WhatsThatColorDocs/Sample-Smoothies/Apple) (supportpage) ([edit](https://github.com/PranjalDev/WhatsThatColorDocs/edit/DataSource/Sample-Smoothies/Apple.md))
 
 
 ## Notes
